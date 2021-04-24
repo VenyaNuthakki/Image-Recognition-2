@@ -1,0 +1,25 @@
+.heading{
+    font-size: 25px;
+    font-family: 'Indie Flower', cursive;
+    width: 80%;
+}
+
+.object_names{
+    font-size: 20px;
+    color:aqua;
+}
+
+body{
+    background: linear-gradient(to right top, red, orange, yellow,green, blue, indigo, violet);
+}
+
+#camera, #result{
+    width: 350px;
+    height: 350px;
+    border: dashed 2px aliceblue;
+}
+
+#result_object, #result_accuracy{
+    color: black;
+    font-size: 20px;
+}
